@@ -1,0 +1,15 @@
+﻿body{background:#1D1E1A;}
+#garden{width:100%;height:100%}
+#words{font-family:"sans-serif";width:500px;font-size:30px;color:#666}
+#messages{display:none}
+#elapseClock .digit{font-family:"digit";font-size:36px}
+#loveu{padding:5px;font-size:22px;margin-top:80px;margin-right:120px;text-align:right;display:none}
+#loveu .signature{margin-top:10px;font-size:20px;font-style:italic}
+#clickSound{display:none}
+#code{margin: 40px 50px ; color:#fff;font-family:"Consolas";font-size:20px}
+#code .string{color:#F71D4C}
+#code .keyword{color:#45DCEB}
+#code .placeholder{margin-left:15px}#code .space{margin-left:7px}
+#code .comments{color:#390}
+#copyright{margin-top:10px;text-align:center;width:100%;color:#666}
+#errorMsg{width:100%;text-align:center;font-size:24px;position:absolute;top:100px;left:0}
